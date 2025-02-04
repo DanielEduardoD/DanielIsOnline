@@ -1,2 +1,2 @@
-# DanielIsOnline
-Repository for my personal website.
+# DanielIsOnline - Resume
+Repository for my online resume.
